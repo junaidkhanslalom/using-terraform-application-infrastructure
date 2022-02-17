@@ -20,3 +20,12 @@ Select default workspace
 
 Tearing down Infrastructure
 #### terraform destroy 
+
+----------------------------------------
+
+Creating a module folder: 
+
+#### mkdir -p modules/vpc
+
+#### cd ~/terraform_project/modules/vpc
+
